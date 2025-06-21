@@ -15,11 +15,11 @@ The goal was to identify high-value users, segment customers, track product tren
 
 Total Orders: 110,950,743
 
-Total Revenue: ₹32,065,463,201.13
+Total Revenue: $32,065,463,201.13
 
 Unique Customers: 6,718,407
 
-Avg Order Value: ₹292.35
+Avg Order Value: ₹$292.35
 
 Dataset Size: ~22 GB+ (combined across Oct & Nov)
 
